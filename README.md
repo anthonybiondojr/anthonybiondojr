@@ -14,14 +14,8 @@ Anthony’s technical experience includes: Amazon AWS, Google Cloud, Azure, Okta
 Biondo Creative
 * [Visit Biondo Creative Website](https://www.biondocreative.com)
 
-Our Work
+Featured Projects
 * [Explore featured projects](https://www.biondocreative.com/case-studies/)
-
-Services
-* [Web Design](https://www.biondocreative.com/services/web-design/)
-* [Pay Per Click Advertising (PPC)](https://www.biondocreative.com/services/pay-per-click/)
-* [Social Media Marketing](https://www.biondocreative.com/services/social-media/)
-* [Video Production](https://www.biondocreative.com/services/video-production/)
 
 GitHub Repositories
 * [Anthony J. Biondo Jr. Repo](https://github.com/anthonybiondojr)
