@@ -2,6 +2,7 @@
 
 ## About Anthony J. Biondo Jr.
 
+<img align="left" width="300" height="300" src="https://avatars.githubusercontent.com/u/160443870?v=4">
 Anthony J. Biondo Jr. is a top performer and an award-winning Information Technology leader known for building high-trust relationships, leading by example, and creating innovative solutions that execute a strategic vision. Anthony has decades of experience in Technology / Marketing, including IT infrastructure, Engineering, IT Support Services, IT Consulting, IT Security, Agile Software Development / Program Management, Web Design, Advertising, Social Media, UI / UX, Coaching, and Mentoring.  
 
 Anthony is highly skilled in vendor management and establishing partnerships with VMware, Citrix, and Fortune 500 companies like Amazon, Google, Okta, Microsoft, EMC, and HP. He quickly adapts to emerging technology and changing technology landscapes and is passionate about empowering teams, groups, and organizations to deliver solutions that transform organizations while continuously improving. 
