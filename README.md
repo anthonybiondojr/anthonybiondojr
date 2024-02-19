@@ -12,7 +12,7 @@ Anthony is a graduate of the La Salle University and obtained his Masters from S
 Anthony’s technical experience includes: Amazon AWS, Google Cloud, Azure, Okta (Single Sign-On, Multifactor Authentication, SCIM), Network Security, Citrix, VMWare, Microsoft SQL Server, MySQL, Oracle, Sybase, HTML, CSS, Javascript, C#, VB.NET, PHP, Swift, Powershell, XML, JSON, REST APIs, IBM WebSphere MQ, HP Openview, Microsoft Systems Center Operation Manager (SCOM), Fiddler, Wireshark, Interwoven TeamSite CMS / MediaBin DAM, WordPress, Microsoft SharePoint, Office 365, Artificial Intelligence, Machine Learning, Chatbot, Alexa, Google Assistant, Adobe Creative Suite, Hubspot (CRM, Forms), Google Analytics, Google Tag Manager, Agile, Jira.
 
 Biondo Creative
-* [Visit Biondo Creative Website](https://www.biondocreative.com/case-studies/)
+* [Visit Biondo Creative Website](https://www.biondocreative.com)
 
 Our Work
 * [Explore featured projects](https://www.biondocreative.com/case-studies/)
@@ -23,7 +23,9 @@ Services
 * [Social Media Marketing](https://www.biondocreative.com/services/social-media/)
 * [Video Production](https://www.biondocreative.com/services/video-production/)
 
-Visit [www.biondocreative.com](https://www.biondocreative.com) to learn more!
+GitHub Repo
+* [Anthony J. Biondo Jr. Repo](https://github.com/anthonybiondojr)
+* [Biondo Creative Repo](https://github.com/biondocreative)
 
 ## Follow Us
 Website: [https://www.biondocreative.com](https://www.biondocreative.com)
