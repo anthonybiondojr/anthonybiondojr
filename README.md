@@ -23,7 +23,7 @@ Services
 * [Social Media Marketing](https://www.biondocreative.com/services/social-media/)
 * [Video Production](https://www.biondocreative.com/services/video-production/)
 
-GitHub Repo
+GitHub Repositories
 * [Anthony J. Biondo Jr. Repo](https://github.com/anthonybiondojr)
 * [Biondo Creative Repo](https://github.com/biondocreative)
 
